@@ -1,0 +1,5 @@
+D:\ConsoleApp22\ConsoleApp22\obj\Debug\net6.0\ConsoleApp22.csproj.AssemblyReference.cache
+D:\ConsoleApp22\ConsoleApp22\obj\Debug\net6.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp22\ConsoleApp22\obj\Debug\net6.0\ConsoleApp22.AssemblyInfoInputs.cache
+D:\ConsoleApp22\ConsoleApp22\obj\Debug\net6.0\ConsoleApp22.AssemblyInfo.cs
+D:\ConsoleApp22\ConsoleApp22\obj\Debug\net6.0\ConsoleApp22.csproj.CoreCompileInputs.cache
